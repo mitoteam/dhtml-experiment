@@ -4,4 +4,4 @@ use .
 use ./pkg/dhtml
 use ./pkg/dhtmlform
 use ./pkg/dhtmlbs
-//use ./pkg/mbr
+use ./pkg/mbr

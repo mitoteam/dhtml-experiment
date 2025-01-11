@@ -10,3 +10,7 @@
 	path = pkg/dhtmlbs
 	url = https://github.com/mitoteam/dhtmlbs.git
 	branch = main
+[submodule "pkg/mbr"]
+	path = pkg/mbr
+	url = https://github.com/mitoteam/mbr.git
+	branch = main
