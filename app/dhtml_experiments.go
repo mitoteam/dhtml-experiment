@@ -52,7 +52,7 @@ func BuildDhtmlExperiment1() string {
 	return document.String()
 }
 
-var ExperimentFormHandler = dhtmlform.FormHandler{
+var formHandlerExperiment1 = dhtmlform.FormHandler{
 	RenderF: func(formBody *dhtml.HtmlPiece, fd *dhtmlform.FormData) {
 		formBody.Append("ExperimentFormHandler")
 		formBody.Append(dhtmlform.NewTextarea("area").Default("def value\nmulti").Label("Label").Note("notes for <textarea>"))
