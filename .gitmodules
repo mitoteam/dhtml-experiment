@@ -1,0 +1,12 @@
+[submodule "pkg/dhtml"]
+	path = pkg/dhtml
+	url = https://github.com/mitoteam/dhtml.git
+	branch = main
+[submodule "pkg/dhtmlform"]
+	path = pkg/dhtmlform
+	url = https://github.com/mitoteam/dhtmlform.git
+	branch = main
+[submodule "pkg/dhtmlbs"]
+	path = pkg/dhtmlbs
+	url = https://github.com/mitoteam/dhtmlbs.git
+	branch = main
