@@ -9,8 +9,8 @@ import (
 	"os/signal"
 	"time"
 
-	"github.com/mitoteam/mbr"
 	"github.com/mitoteam/dhtml-experiment/app"
+	"github.com/mitoteam/mbr"
 )
 
 func main() {
